@@ -116,7 +116,7 @@ streamlit run app.py
 
 ## 🎥 Demo
 
-(Add your demo video link here)
+Demo video coming soon 🚀
 
 ---
 
