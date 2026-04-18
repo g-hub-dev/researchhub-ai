@@ -5,6 +5,14 @@ An AI-powered research assistant that helps users **discover, understand, and or
 Built as a full-stack application integrating search, AI, and document analysis.
 
 ---
+## 📸 Preview
+
+![Dashboard](assets/dashboard1.png)
+![Dashboard](assets/dashboard2.png)
+![AI Assistance](assets/AIAssistance.png)
+![Search Papers](assets/SearchPapers1.png)
+![Search Papers](assets/SearchPapers2.png)
+![Analytics](assets/analytics.png)
 
 ## 🚀 Features
 
